@@ -1,0 +1,35 @@
+body{
+  font: normal 16px Arial, Halvetica, sans-serif;
+  line-height: 1.6em;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+hr{
+  width: 90%;
+}
+.box-1{
+  background-color: #333;
+  color: #fff;
+  border: 5px red solid;
+  border-top-width: 10px;
+}
+.box-1 h1{
+  text-align: center;
+}
+img{
+  width: 80%;
+  margin: auto;
+}
+h2{
+  background-color: black;
+  color: white;
+  font-size: 56px;
+  text-align: center;
+}
+h6{
+  text-align: center;
+}
+
+
